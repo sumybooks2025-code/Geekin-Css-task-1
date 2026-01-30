@@ -1,12 +1,8 @@
-R# Sumybooks2025-code/Geekin-Css-task-1
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Sumys Varieties Online Store</title>
-
-  <!-- External CSS -->
+ <!-- External CSS -->
   <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
