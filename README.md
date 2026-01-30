@@ -1,4 +1,4 @@
-# Sumys Varieties Online Store
+# Sumybooks2025-code/Geekin-Css-task-1
 
 A simple Amazon/Temu-inspired ecommerce website layout built with HTML and CSS.
 
