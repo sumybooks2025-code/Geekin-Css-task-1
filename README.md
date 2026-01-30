@@ -8,13 +8,13 @@
 
   <!-- ===== Top Navigation (Amazon/Temu style) ===== -->
   <header class="navbar">
-    <h1 class="Logo" href=! [Logo] (Logo.png) Sumys Varieties</h1>
+    <h1 class="Logo" href="[Logo] (Logo.png)" Sumys Varieties</h1>
     <input type="text" placeholder="Search products..." class="search-bar">
     <button class="cart-btn">Cart</button>
   
   
-  <!--Link to external CSS-->
-  <Link rel="stylesheets" href="css/Style.css
+  <!--Link to External CSS-->
+  <link rel="stylesheets" href="css/Style.css
     </header>
     <body>
 /* ===== Global Styles ===== */
