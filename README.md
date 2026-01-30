@@ -2,7 +2,8 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8
-  <link rel="stylesheet" href="./css/css.style">
+<!-- Link External CSS -->
+  <link rel="stylesheet" href="css/css.style">
 </head>
 <body>
 
