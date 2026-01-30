@@ -2,16 +2,121 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8
-  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="./Css/Css.Style">
 </head>
 <body>
 
   <!-- ===== Top Navigation (Amazon/Temu style) ===== -->
   <header class="navbar">
-    <h1 class="logo">Sumys Varieties</h1>
+    <h1 class="Logo" href=".Logo Sumys Varieties</h1>
     <input type="text" placeholder="Search products..." class="search-bar">
     <button class="cart-btn">Cart</button>
   </header>
+  
+  <!--Link to external CSS >
+  <Link rel="Stylesheets" href=Css/Style.css
+/* ===== Global Styles ===== */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+}
+
+body {
+  background-color: #f5f5f5;
+}
+
+/* ===== Navbar ===== */
+.navbar {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  background-color: #131921;
+  padding: 15px;
+  color: white;
+}
+
+.logo {
+  font-size: 1.5rem;
+}
+
+.search-bar {
+  flex: 1;
+  padding: 10px;
+  font-size: 1rem;
+}
+
+.cart-btn {
+  padding: 10px 15px;
+  background-color: #f0c14b;
+  border: none;
+  cursor: pointer;
+}
+
+/* ===== Hero Section ===== */
+.hero {
+  background-color: #232f3e;
+  color: white;
+  text-align: center;
+  padding: 3rem;
+}
+
+.hero h2 {
+  font-size: 2rem;
+  margin-bottom: 10px;
+}
+
+/* ===== Product Grid ===== */
+.product-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 20px;
+  padding: 30px;
+}
+
+/* ===== Product Card (Box Model) ===== */
+.product-card {
+  background-color: white;
+  padding: 15px;
+  border: 2px solid #ddd;
+  border-radius: 6px;
+  text-align: center;
+}
+
+.product-card img {
+  width: 100%;
+  height: 180px;
+  background-color: #eaeaea;
+  margin-bottom: 10px;
+}
+
+.product-card h3 {
+  font-size: 1.1rem;
+  margin-bottom: 5px;
+}
+
+.price {
+  color: #b12704;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.product-card button {
+  padding: 10px;
+  width: 100%;
+  background-color: #f0c14b;
+  border: none;
+  cursor: pointer;
+}
+
+/* ===== Footer ===== */
+.footer {
+  background-color: #131921;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
   
 
   <!-- ===== Hero Section ===== -->
