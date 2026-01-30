@@ -142,8 +142,8 @@ body {
 
     <!-- Product 3 -->
     <div class="product-card">
-      <img src=".liquid soap" alt="Product Image 3">
-      <h3>Product Name</h3>
+      <img src=".liquid soap" alt="Atamfa 3">
+      <h3>Atamfa</h3>
       <p class="price">₦12,000</p>
       <button>Add to Cart</button>
     </div>
@@ -159,7 +159,7 @@ body {
     <!-- Product 5 -->
     <div class="product-card">
       <img src="" alt="Product Image 5">
-      <h3>Product Name</h3>
+      <h3>Babies Gown</h3>
       <p class="price">₦15,000</p>
       <button>Add to Cart</button>
     </div>
@@ -167,7 +167,7 @@ body {
     <!-- Product 6 -->
     <div class="product-card">
       <img src="" alt="Product Image 6">
-      <h3>Product Name</h3>
+      <h3>Boys trouser</h3>
       <p class="price">₦9,500</p>
       <button>Add to Cart</button>
     </div>
@@ -175,7 +175,7 @@ body {
     <!-- Product 7 -->
     <div class="product-card">
       <img src="" alt="Product Image 7">
-      <h3>Product Name</h3>
+      <h3>Lace </h3>
       <p class="price">₦6,000</p>
       <button>Add to Cart</button>
     </div>
@@ -183,7 +183,7 @@ body {
     <!-- Product 8 -->
     <div class="product-card">
       <img src="" alt="Product Image 8">
-      <h3>Product Name</h3>
+      <h3>Detergents</h3>
       <p class="price">₦11,000</p>
       <button>Add to Cart</button>
     </div>
@@ -191,7 +191,7 @@ body {
     <!-- Product 9 -->
     <div class="product-card">
       <img src="" alt="Product Image 9">
-      <h3>Product Name</h3>
+      <h3>Box Bags</h3>
       <p class="price">₦13,500</p>
       <button>Add to Cart</button>
     </div>
@@ -199,7 +199,7 @@ body {
     <!-- Product 10 -->
     <div class="product-card">
       <img src="" alt="Product Image 10">
-      <h3>Product Name</h3>
+      <h3>Mix and Match</h3>
       <p class="price">₦5,500</p>
       <button>Add to Cart</button>
     </div>
