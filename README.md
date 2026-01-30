@@ -8,7 +8,7 @@
 
   <!-- ===== Top Navigation (Amazon/Temu style) ===== -->
   <header class="navbar">
-    <h1 class="Logo" href=".Logo.png Sumys Varieties</h1>
+    <h1 class="Logo" href=! [Logo] (Logo.png) Sumys Varieties</h1>
     <input type="text" placeholder="Search products..." class="search-bar">
     <button class="cart-btn">Cart</button>
   </header>
@@ -130,9 +130,9 @@ body {
 
     <!-- Product 1 -->
     <div class="product-card">
-      <img src="" alt="Product Image 1">
+      <img src="" alt="Product Image 1">[Body Cream] (img/Bodycream.png)
       <h3>Body Cream</h3>
-      <p class="price">₦10,000</p>
+      <p class="price">₦7,000</p>
       <button>Add to Cart</button>
     </div>
 
