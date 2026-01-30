@@ -8,7 +8,7 @@
 
   <!-- ===== Top Navigation (Amazon/Temu style) ===== -->
   <header class="navbar">
-    <h1 class="Logo" href=".Logo Sumys Varieties</h1>
+    <h1 class="Logo" href=".Logo.png Sumys Varieties</h1>
     <input type="text" placeholder="Search products..." class="search-bar">
     <button class="cart-btn">Cart</button>
   </header>
