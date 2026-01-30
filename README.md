@@ -11,10 +11,12 @@
     <h1 class="Logo" href=! [Logo] (Logo.png) Sumys Varieties</h1>
     <input type="text" placeholder="Search products..." class="search-bar">
     <button class="cart-btn">Cart</button>
-  </header>
   
-  <!--Link to external CSS >
-  <Link rel="Stylesheets" href=Css/Style.css
+  
+  <!--Link to external CSS-->
+  <Link rel="stylesheets" href="css/Style.css
+    </header>
+    <body>
 /* ===== Global Styles ===== */
 * {
   margin: 0;
@@ -130,7 +132,7 @@ body {
 
     <!-- Product 1 -->
     <div class="product-card">
-      <img src="" alt="Product Image 1">[Body Cream] (img/Bodycream.png)
+      <img src="" alt="Product Image 1">[BodyCream] <img src="bodycream.png>
       <h3>Body Cream</h3>
       <p class="price">₦7,000</p>
       <button>Add to Cart</button>
